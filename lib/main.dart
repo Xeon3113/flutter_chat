@@ -1,3 +1,8 @@
+/**
+ * @Title: 플러터 채팅 앱 스타트
+ * @Author : Xeon
+ * @Date : 2020-01-07
+ */
 import 'package:flutter/material.dart';
 import 'package:flutter_chat/screens/chat_screen.dart';
 
